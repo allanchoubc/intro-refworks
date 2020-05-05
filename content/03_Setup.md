@@ -2,7 +2,6 @@
  layout: default
  title: Setup
  nav_order: 3
- parent: Outline
 ---
 
 ## Installing the software before your workshop
