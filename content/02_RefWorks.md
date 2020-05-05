@@ -1,3 +1,10 @@
+---
+ layout: default
+ title: What is a Social Network
+ nav_order: 2
+ parent: Outline
+---
+
 RefWorks is a web-based citation management program that enables you to:
 -download, gather, and store references from databases and library catalogues automatically
 -format citations and bibliographies in seconds
