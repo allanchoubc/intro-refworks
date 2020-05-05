@@ -2,7 +2,6 @@
  layout: default
  title: What is RefWorks
  nav_order: 2
- parent: Outline
 ---
 
 RefWorks is a web-based citation management program that enables you to:
