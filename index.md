@@ -1,6 +1,6 @@
 ---
  layout: default
- title: What is a Social Network
+ title: Introduction
  nav_order: 1
  parent: Outline
 ---
