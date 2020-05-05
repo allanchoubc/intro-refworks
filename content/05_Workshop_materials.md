@@ -1,6 +1,6 @@
 ---
  layout: default
- title: What is a Social Network
+ title: Workshop Materials
  nav_order: 5
  parent: Outline
 ---
