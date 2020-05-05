@@ -5,4 +5,5 @@ RefWorks is a web-based citation management program that enables you to:
 -share your citations with other RefWorks users
 
 ## NOTICE: 
+
 Systematic downloading or harvesting articles, citations, metadata (e.g. using citation managers such as EndNote or Zotero) is strictly prohibited. (You must contact lib-license@lists.ubc.ca. Permission is required or a Text and Data Mining Package should be purchased.)
