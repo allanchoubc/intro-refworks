@@ -1,3 +1,10 @@
+---
+ layout: default
+ title: What is a Social Network
+ nav_order: 5
+ parent: Outline
+---
+
 ## Workshop materials
 
 Citation Management Tools Comparison Table  
