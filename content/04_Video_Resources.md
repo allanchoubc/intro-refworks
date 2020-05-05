@@ -2,7 +2,6 @@
  layout: default
  title: What is a Social Network
  nav_order: 4
- parent: Outline
 ---
 
 ##Introduction to RefWorks
