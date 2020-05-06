@@ -1,6 +1,6 @@
 ---
  layout: default
- title: What is a Social Network
+ title: More Resources
  nav_order: 4
 ---
 
