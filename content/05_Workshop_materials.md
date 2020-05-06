@@ -2,7 +2,6 @@
  layout: default
  title: Workshop Materials
  nav_order: 5
- parent: Outline
 ---
 
 ## Workshop materials
