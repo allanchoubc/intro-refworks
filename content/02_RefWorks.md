@@ -4,11 +4,7 @@
  nav_order: 2
 ---
 
-RefWorks is a web-based citation management program that enables you to:
--download, gather, and store references from databases and library catalogues automatically
--format citations and bibliographies in seconds
--connect to your RefWorks account anywhere there’s web access
--share your citations with other RefWorks users
+Zotero was developed as an extension for Firefox  to “live” right where you do your work—in the web browser itself. Zotero runs in its own pane within Firefox, separately from web pages and scrapes information to populate the your citation database.  Zotero is free to download. You can download the most recent version whether you are using a Mac, Windows, or Linux operating system here: https://www.zotero.org/download/
 
 ## NOTICE: 
 
