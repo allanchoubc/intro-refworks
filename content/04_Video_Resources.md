@@ -1,9 +1,11 @@
 ---
- layout: default
- title: More Resources
- nav_order: 4
+layout: default
+title: More Resources
+nav_order: 4
+published: true
 ---
 
 ##Introduction to RefWorks
 
-https://www.youtube.com/embed/9mTYGIOBvag
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=9mTYGIOBvag)
+
