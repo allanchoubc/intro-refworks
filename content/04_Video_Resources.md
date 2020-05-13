@@ -7,5 +7,4 @@ published: true
 
 ##Introduction to RefWorks
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=9mTYGIOBvag)
-
+[![Alt text](https://img.youtube.com/vi/VID/1.jpg)](https://www.youtube.com/watch?v=9mTYGIOBvag)
