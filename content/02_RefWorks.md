@@ -4,7 +4,12 @@
  nav_order: 2
 ---
 
-Zotero was developed as an extension for Firefox  to “live” right where you do your work—in the web browser itself. Zotero runs in its own pane within Firefox, separately from web pages and scrapes information to populate the your citation database.  Zotero is free to download. You can download the most recent version whether you are using a Mac, Windows, or Linux operating system here: https://www.zotero.org/download/
+RefWorks is a citation management and bibliography builder that helps collect, organize, cite, and share research. Create reference lists in APA, MLA, and other formats, and organize your citations with tags and collections. UBC Library maintains a site license to RefWorks. It is freely available to UBC students, faculty, staff, and alumni.  By the end of the session, you will be able to:
+
+- Collect and annotate references
+- Organize references using tags, folders, and other features
+- Collaborate and share references 
+- Generate citations and bibliographies
 
 ## NOTICE: 
 
