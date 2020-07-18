@@ -1,12 +1,13 @@
 ---
- layout: default
- title: Workshop Materials
- nav_order: 5
+layout: default
+title: Workshop Materials
+nav_order: 5
+published: true
 ---
 
 ## Workshop materials
 
-Citation Management Tools Comparison Table  
+Citation Management Tools [Comparison Table](https://github.com/ubc-library-rc/intro-refworks/blob/master/contenthandouts/CM_ComprisonTable_Printer_20191031.pdf)  
 
 RefWorks is one of several common citation management tools. 
 
