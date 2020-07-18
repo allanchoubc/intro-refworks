@@ -9,7 +9,7 @@ published: true
 
 Citation Management Tools [Comparison Table](https://github.com/ubc-library-rc/intro-refworks/blob/master/contenthandouts/CM_ComprisonTable_Printer_20191031.pdf)  
 
-RefWorks is one of several common citation management tools. 
+- RefWorks is one of several common citation management tools. 
 
 In this document we compare the features of these different tools to help you pick the right option for your work.
 
