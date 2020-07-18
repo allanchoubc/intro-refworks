@@ -15,6 +15,6 @@ In this document we compare the features of these different tools to help you pi
 
 RefWorks Workshop Handout – [Write N Cite 4 and RefWorks Citation Manager](https://github.com/ubc-library-rc/intro-refworks/blob/master/contenthandouts/CM_ComprisonTable_Printer_20191031.pdf).  
 
-Step-by-step instructions for working with WriteNCite 4 and RefWorks Citation Manager for Word 2016 on Mac.
+- Step-by-step instructions for working with WriteNCite 4 and RefWorks Citation Manager for Word 2016 on Mac.
 
 Workshop slides from Citation Management Using RefWorks
