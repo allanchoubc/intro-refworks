@@ -19,4 +19,6 @@ RefWorks Workshop Handout – [Write N Cite 4 and RefWorks Citation Manager](htt
 
 Workshop slides from Citation Management Using RefWorks
 
-Workshop slides [slides](https://github.com/ubc-library-rc/intro-refworks/blob/master/contenthandouts/CM_ComprisonTable_Printer_20191031.pdf)
+Workshop slides 
+
+- [Download](https://github.com/ubc-library-rc/intro-refworks/blob/master/contenthandouts/CM_ComprisonTable_Printer_20191031.pdf)
