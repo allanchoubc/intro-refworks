@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 published: true
 ---
-## ![]({{site.baseurl}}/content/images/zotero.png)
+## ![]({{site.baseurl}}/content/images/refworks.png)
 
 RefWorks is a web-based citation managment program that enables you to download, store, and share references, and format bibliographies in seconds. 
 
