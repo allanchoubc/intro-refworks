@@ -7,16 +7,15 @@ published: true
 
 ## Workshop materials
 
-Citation Management Tools [Comparison Table](https://github.com/ubc-library-rc/intro-refworks/blob/master/contenthandouts/CM_ComprisonTable_Printer_20191031.pdf)  
+RefWorks is one of several common citation management tools.  In this Citation management tools comparison table, we compare the features of these different tools to help you pick the right option for your work.
 
-- RefWorks is one of several common citation management tools. 
+- [Download here]](https://github.com/ubc-library-rc/intro-refworks/blob/master/contenthandouts/CM_ComprisonTable_Printer_20191031.pdf)  
 
-In this document we compare the features of these different tools to help you pick the right option for your work.
 
-RefWorks Workshop Handout – [Write N Cite 4 and RefWorks Citation Manager](https://github.com/ubc-library-rc/intro-refworks/blob/master/contenthandouts/CM_ComprisonTable_Printer_20191031.pdf).  
+RefWorks Workshop Handout.  This Write N Cite 4 and RefWorks Citation Manager is a step-by-step instructional guide for working with WriteNCite 4 and RefWorks Citation Manager for Word 2016 on Mac.
 
-- Step-by-step instructions for working with WriteNCite 4 and RefWorks Citation Manager for Word 2016 on Mac.
+- [Download here](https://github.com/ubc-library-rc/intro-refworks/blob/master/contenthandouts/CM_ComprisonTable_Printer_20191031.pdf).
 
-Workshop slides from Citation Management Using RefWorks
+Workshop slides 
 
-- [Download](https://github.com/ubc-library-rc/intro-refworks/blob/master/contenthandouts/RefWorks-Presentation-2020_2021-winter.pdf)
+- [Download here](https://github.com/ubc-library-rc/intro-refworks/blob/master/contenthandouts/RefWorks-Presentation-2020_2021-winter.pdf)
