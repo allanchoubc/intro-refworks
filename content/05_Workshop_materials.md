@@ -18,4 +18,4 @@ RefWorks Workshop Handout.  This Write N Cite 4 and RefWorks Citation Manager is
 
 Workshop slides 
 
-- [Download here](https://github.com/ubc-library-rc/intro-refworks/blob/master/RefWorks-Presentation-2020.pdf)
+- [Download here](https://github.com/ubc-library-rc/intro-refworks/blob/master/RefWorks-Presentation-2020-rev20210208.pdf)
