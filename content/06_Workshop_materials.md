@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Workshop Materials
-nav_order: 5
+nav_order: 6
 published: true
 ---
 
@@ -19,3 +19,7 @@ RefWorks Workshop Handout.  This Write N Cite 4 and RefWorks Citation Manager is
 Workshop slides 
 
 - [Download here](https://github.com/ubc-library-rc/intro-refworks/blob/master/contenthandouts/RefWorks-Presentation-2020-rev20210208.pdf)
+
+Sample RIS file for practice 
+
+- [Download here](https://github.com/ubc-library-rc/intro-refworks/blob/master/contenthandouts/content/cm.ris)
