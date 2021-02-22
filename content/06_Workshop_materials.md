@@ -22,4 +22,4 @@ Workshop slides
 
 Sample RIS file for practice 
 
-- [Download here](https://github.com/ubc-library-rc/intro-refworks/blob/master/contenthandouts/content/cm.ris)
+- [Download here](https://github.com/ubc-library-rc/intro-refworks/blob/master/contenthandouts/cm.ris)
