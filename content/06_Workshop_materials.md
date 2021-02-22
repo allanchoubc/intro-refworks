@@ -20,6 +20,6 @@ Workshop slides
 
 - [Download here](https://github.com/ubc-library-rc/intro-refworks/blob/master/contenthandouts/RefWorks-Presentation-2020-rev20210208.pdf)
 
-Sample RIS file for practice 
+Sample RIS file for practice (Right-click to save)
 
 - [Download here](https://github.com/ubc-library-rc/intro-refworks/blob/master/contenthandouts/cm.ris)
